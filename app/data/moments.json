@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "First Moments",
+    "description": "The way you held our child for the first time",
+    "image": "/baby1.png",
+    "alt": "First moments with baby"
+  },
+  {
+    "id": 2,
+    "title": "Growing Together",
+    "description": "How you carried her through every sleepless night",
+    "image": "/baby2.jpeg",
+    "alt": "Growing together as a family"
+  },
+  {
+    "id": 3,
+    "title": "Christmas Joy",
+    "description": "The gentle way you look at her every single day",
+    "image": "/christman.png",
+    "alt": "Christmas family moment"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "image": "/newchapter1.png",
+    "alt": "New Chapter Moment 1"
+  },
+  {
+    "id": 2,
+    "image": "/baby1.png",
+    "alt": "New Chapter Moment 2"
+  },
+    {
+        "id": 3,
+        "image": "/baby.png",
+        "alt": "New Chapter Moment 3"
+    }
+]

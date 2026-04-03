@@ -1,12 +1,18 @@
 @import "tailwindcss";
 
+@theme {
+  /* This maps the CSS variable from next/font to a Tailwind utility */
+  --font-nibpro: var(--font-nibpro), sans-serif;
+  --font-manrope: var(--font-manrope), sans-serif;
+}
 
-
-
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background: #F9F1F0;
-  font-family: 'Manrope', sans-serif;
+  font-family: var(--font-nibpro);
 }
 
 

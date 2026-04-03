@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/our-story1.png",
+    "alt": "Our Story",
+    "caption": "FROM WHEN WE MET"
+  },
+  {
+    "id": 2,
+    "image": "/story2.png",
+    "alt": "Our Story",
+    "caption": "WHEN WE KNEW"
+  },
+  {
+    "id": 3,
+    "image": "/story3.png",
+    "alt": "Our Story",
+    "caption": "THE ADVENTURE BEGINS"
+  },
+  {
+    "id": 4,
+    "image": "/baby.png",
+    "alt": "Our Story",
+    "caption": "OUR NEW CHAPTER"
+  }
+]

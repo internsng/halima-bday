@@ -1,0 +1,6 @@
+[
+    { "id": 4, "src": "/hero.png", "alt": "Our Story" },
+{ "id": 3, "src": "/christman.png", "alt": "Christmas Joy" },
+  { "id": 1, "src": "/baby1.png", "alt": "First Moments" },
+  { "id": 2, "src": "/baby2.jpeg", "alt": "Growing Together" }
+]
